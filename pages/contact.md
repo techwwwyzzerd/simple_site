@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Making a jekyll-free site
-description: Making a GitHub Pages site without Jekyll.
+title: Contact Me
+description: Ways to reach Brandon Rosbrook.
 ---
 
 If you want a plain website without all of this
