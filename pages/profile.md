@@ -1,14 +1,10 @@
----
-layout: page
-title: Profile
-description: CV
----
-
-Brandon Rosbrook
+### Brandon Rosbrook
 
 Competent Tech | Unix Enthusiast | Technical Editor
 
-Social Profiles
+### Skillset
+
+### Social Profiles
 
    [Github](pages/local_test.html)
     
@@ -17,10 +13,10 @@ Social Profiles
    [Linkedin](pages/local_test.html)
 
 
-Professional Profile
+### Professional Profile
 
 
-
+===========================================================================================
     _includes/
     _layouts/
     _plugins/
