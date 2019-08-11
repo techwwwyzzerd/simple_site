@@ -5,6 +5,8 @@ tagline: I strive to be competent in technology.
 description: https://www.compe.tech
 ---
 
+Email Me | (407) 984-0020 | Central Florida
+
 Welcome to my page. Here you will find some more information about me, and other shenanigans. 
 
 Here are my main pages;
