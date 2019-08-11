@@ -1,11 +1,8 @@
----
-layout: page
-title: Projects
-description: Brandon's Open Source Projects & Contributions. 
----
+
 
 ### Projects
 
+==========================================================================================================
 
 If you want to make a website for a GitHub-hosted project, as I've
 done for my [R/qtlcharts package](https://kbroman.org/qtlcharts),
