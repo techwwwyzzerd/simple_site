@@ -1,14 +1,8 @@
----
-layout: page
-title: Contact Me
-description: Ways to reach Brandon Rosbrook.
----
-
 ### Contact Me
+
 Drop me a message or give me a call. 
 
-Passionate about technology. I am a competech.
-
+Passionate about technology | I am a competech
 
 Orlando, Florida USA
 (407) 984-0020
