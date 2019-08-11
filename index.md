@@ -9,13 +9,11 @@ Welcome to my page. Here you will find some more information about me, and other
 
 Here are my main pages;
 
-- [Overview](pages/overview.html)
-- [Making an independent website](pages/independent_site.html)
-- [Making a personal site](pages/user_site.html)
-- [Making a site for a project](pages/project_site.html)
-- [Making a jekyll-free site](pages/nojekyll.html)
-- [Testing your site locally](pages/local_test.html)
-- [Resources](pages/resources.html)
+- [Profile](pages/overview.html)
+- [Skills](pages/independent_site.html)
+- [Experience](pages/user_site.html)
+- [Projects](pages/project_site.html)
+- [Contact](pages/nojekyll.html)
 
 Also feel free to check out these interesting links;
 
