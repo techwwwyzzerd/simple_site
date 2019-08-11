@@ -9,7 +9,7 @@ Welcome to my page. Here you will find some more information about me, and other
 
 Here are my main pages;
 
-- [Profile](pages/overview.html)
+- [Profile](pages/profile.html)
 - [Skills](pages/independent_site.html)
 - [Experience](pages/user_site.html)
 - [Projects](pages/project_site.html)
