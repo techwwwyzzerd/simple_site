@@ -9,8 +9,11 @@ Brandon Rosbrook
 Competent Tech | Unix Enthusiast | Technical Editor
 
 Social Profiles
+
     _[Github](pages/local_test.html)
+    
     _[StackOverflow](pages/local_test.html)
+    
     _[Linkedin](pages/local_test.html)
 
 
