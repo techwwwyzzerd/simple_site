@@ -1,16 +1,9 @@
----
-layout: page
-title: Skills
-description: Skills
----
-
 ### What is a Competech?
 
-Technical Writing / Editing
+### Technical Writing / Editing
 
-Languages/Technologies/Sites
+### Languages/Technologies/Sites
 
-Open Source Contributor
+### Open Source Contributor
 
-Solution Proposals
-
+### Solution Proposals
