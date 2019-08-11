@@ -10,10 +10,10 @@ Welcome to my page. Here you will find some more information about me, and other
 Here are my main pages;
 
 - [Profile](pages/profile.html)
-- [Skills](pages/independent_site.html)
-- [Experience](pages/user_site.html)
-- [Projects](pages/project_site.html)
-- [Contact](pages/nojekyll.html)
+- [Skills](pages/skills.html)
+- [Experience](pages/experience.html)
+- [Projects](pages/projects.html)
+- [Contact](pages/contact.html)
 
 Also feel free to check out these interesting links;
 
