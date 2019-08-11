@@ -10,11 +10,11 @@ Competent Tech | Unix Enthusiast | Technical Editor
 
 Social Profiles
 
-    _[Github](pages/local_test.html)
+   [Github](pages/local_test.html)
     
-    _[StackOverflow](pages/local_test.html)
+   [StackOverflow](pages/local_test.html)
     
-    _[Linkedin](pages/local_test.html)
+   [Linkedin](pages/local_test.html)
 
 
 Professional Profile
