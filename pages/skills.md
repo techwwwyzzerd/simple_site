@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Making an independent website
-description: How to make an independent website with GitHub Pages.
+title: Skills
+description: Skills
 ---
 
 This is what to do if you just want a website. (This page is a bit
