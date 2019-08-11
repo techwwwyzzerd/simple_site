@@ -1,8 +1,3 @@
----
-layout: page
-title: Experience
-description: Professional Experience
----
 
 ### Experience
 
@@ -11,6 +6,8 @@ Technical Editorship
 System(s) Administration
 
 DigitalCV
+
+===================================================================================================
 
 Your [GitHub Pages](https://pages.github.com) sites will appear at
 
