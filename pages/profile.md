@@ -4,13 +4,13 @@ Competent Tech | Unix Enthusiast | Technical Editor
 
 ### Skillset
 
-## Operating Systems 
+##### Operating Systems 
 Fedora, CentOS/Red Hat Enterprise Linux 7, Debian/Ubuntu, Windows Server. 
-## Security 
+##### Security 
 Information Security and Risk Assessment, Systems Hardening, Vulnerability Assessment and System Testing. 
-## Technologies 
+##### Technologies 
 VMWare ESXi, KVM/libvirt, Apache/NGINX, SQL/NO-SQL, Saltstack/Ansible, Atlassian, Pritunl, Networking, IPA/IdM, Python, Bash Shell Scripting. 
-## Interests 
+##### Interests 
 I have interests in music, film, reading, and gaming outside of work.
 
 ### Social Profiles
