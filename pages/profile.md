@@ -4,13 +4,24 @@ Competent Tech | Unix Enthusiast | Technical Editor
 
 ### Skillset
 
+## Operating Systems 
+Fedora, CentOS/Red Hat Enterprise Linux 7, Debian/Ubuntu, Windows Server. 
+## Security 
+Information Security and Risk Assessment, Systems Hardening, Vulnerability Assessment and System Testing. 
+## Technologies 
+VMWare ESXi, KVM/libvirt, Apache/NGINX, SQL/NO-SQL, Saltstack/Ansible, Atlassian, Pritunl, Networking, IPA/IdM, Python, Bash Shell Scripting. 
+## Interests 
+I have interests in music, film, reading, and gaming outside of work.
+
 ### Social Profiles
 
-   [Github](pages/local_test.html)
+   [Github](https://github.com/techwwwyzzerd/)
     
-   [StackOverflow](pages/local_test.html)
+   [StackOverflow](https://stackoverflow.com/users/11984824/techwwwyzzerd)
     
-   [Linkedin](pages/local_test.html)
+   [Linkedin](https://www.linkedin.com/in/brandon-rosbrook-93a774190)
 
 
 ### Professional Profile
+
+6 years experience in Information Technology, hardware software and troubleshooting from Helpdesk to Devops. 
