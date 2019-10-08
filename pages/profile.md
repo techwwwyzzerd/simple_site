@@ -18,10 +18,7 @@ I have interests in music, film, reading, and gaming outside of work.
    [Github](https://github.com/techwwwyzzerd/)
     
    [StackOverflow](https://stackoverflow.com/users/11984824/techwwwyzzerd)
-    
-   [Linkedin](https://www.linkedin.com/in/brandon-rosbrook-93a774190)
-
 
 ### Professional Profile
 
-6 years experience in Information Technology, hardware software and troubleshooting from Helpdesk to Devops. 
+7 years experience in Information Technology, hardware software and troubleshooting from Helpdesk to Devops. 
