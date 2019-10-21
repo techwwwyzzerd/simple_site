@@ -1,4 +1,4 @@
-### Brandon Rosbrook
+### Brandon R.
 
 Competent Tech | Unix Enthusiast | Technical Editor
 
