@@ -1,19 +1,23 @@
 ### Brandon R.
 
-Competent Tech | Unix Enthusiast | Technical Editor
+Competech 
+Unix and Freedom Enthusiast
+Blundering Tech Blogger
 
 ### Skillset
 
 ##### Operating Systems 
-Fedora, CentOS/Red Hat Enterprise Linux 7, Debian/Ubuntu, Windows Server. 
+Fedora, CentOS/Red Hat Enterprise Linux 7, Debian/Ubuntu -- and of course, some Windows Server. 
 ##### Security 
-Information Security and Risk Assessment, Systems Hardening, Vulnerability Assessment and System Testing. 
+CUI, STIG and Configuration Management of Compliance. 
 ##### Technologies 
-VMWare ESXi, KVM/libvirt, Apache/NGINX, SQL/NO-SQL, Saltstack/Ansible, Atlassian, Pritunl, Networking, IPA/IdM, Python, Bash Shell Scripting. 
+VMWare ESXi, KVM/libvirt, Apache/NGINX, SQL/NO-SQL, Saltstack/Ansible, Atlassian, Pritunl, IPv4&6, IPA/IdM, Bash Shell Scripting. 
 ##### Interests 
 I have interests in music, film, reading, and gaming outside of work.
 
 ### Social Profiles
+
+I don't have a linked in currently due to all the head hunters. 
 
    [Github](https://github.com/techwwwyzzerd/)
     
@@ -21,4 +25,4 @@ I have interests in music, film, reading, and gaming outside of work.
 
 ### Professional Profile
 
-7 years experience in Information Technology, hardware software and troubleshooting from Helpdesk to Devops. 
+8 years experience in Information Technology, hardware, software and troubleshooting from Helpdesk to Devops. 
