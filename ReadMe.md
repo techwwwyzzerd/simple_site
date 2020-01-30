@@ -1,4 +1,4 @@
-## Competech: Brandon Rosbrook's website
+## Competech: Brandon R's website
 
 
 
@@ -7,7 +7,7 @@ The markdown source code was copy-lefted from [here](https://kbroman.org/simple_
 ---
 
 To the extent possible under law,
-[Brandon Rosbrook](https://github.com/techwwwyzzerd)
+[Brandon R](https://github.com/techwwwyzzerd)
 has waived all copyright and related or neighboring rights to
 &ldquo;[Competech](https://github.com/techwwwyzzerd/competech-web)&rdquo;.
 This work is published from the United States.
