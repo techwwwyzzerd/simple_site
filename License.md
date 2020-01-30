@@ -1,6 +1,6 @@
 
 To the extent possible under law,
-[Brandon Rosbrook](https://github.com/techwwwyzzerd)
+[Brandon](https://github.com/techwwwyzzerd)
 has waived all copyright and related or neighboring rights to
 &ldquo;[Competech](https://github.com/techwwwyzzerd/competech-web)&rdquo;.
 This work is published from the United States.
