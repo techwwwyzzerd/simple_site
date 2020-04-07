@@ -17,8 +17,6 @@ I have interests in music, film, reading, and gaming outside of work.
 
 ### Social Profiles
 
-I don't have a linked in currently due to all the head hunters. 
-
    [Github](https://github.com/techwwwyzzerd/)
     
    [StackOverflow](https://stackoverflow.com/users/11984824/techwwwyzzerd)
