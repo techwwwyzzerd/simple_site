@@ -3,7 +3,7 @@
 
 Systems Administration and Devops - 
 
-SENIOR LINUX SYSTEM ADMINISTRATOR	(RED HAT & DEBIAN)	SEP 2019 - PRESENT
+SENIOR LINUX SYSTEM ADMINISTRATOR	                  	SEP 2019 - PRESENT
 DEVOPS ENGINEER                                       SEP 2017 - SEP 2019
 
 Prior Experience -
