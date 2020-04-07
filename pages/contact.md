@@ -1,3 +1,3 @@
 ### Contact Me
 Drop me a message.  
-brandon (at) compe (dot) tech
+brandonrosbrook (at) protonmail (dot) com
