@@ -1,19 +1,18 @@
 ### Brandon R.
 
 Competech 
-Unix and Freedom Enthusiast
-Blundering Tech Blogger
+Competent Tech / Blundering Tech 
 
 ### Skillset
-
+Avid reader and strategist.
 ##### Operating Systems 
-Fedora, CentOS/Red Hat Enterprise Linux 7, Debian/Ubuntu -- and of course, some Windows Server. 
+Fedora, CentOS/Red Hat Enterprise Linux 6/7/8, Debian/Ubuntu, Macintosh OSX, Windows Server 2008 
 ##### Security 
-CUI, STIG and Configuration Management of Compliance. 
+SOX/DCMA Auditing, Information Security and Risk Assessment, System Hardening in Hostile Networks, Vulnerability Assessment and System Testing. 
 ##### Technologies 
-VMWare ESXi, KVM/libvirt, Apache/NGINX, SQL/NO-SQL, Saltstack/Ansible, Atlassian, Pritunl, IPv4&6, IPA/IdM, Bash Shell Scripting. 
+VMWare ESXi/Vsphere, KVM/libvirt, AWS/Azure/GCP, Apache/NGINX, SQL/NO-SQL, Saltstack/Ansible, Gitlab/Bitbucket, Pritunl, IPA/IdM, Python, Splunk/CarbonBlack/Securonix/Elasticsearch, Bash Shell Scri
 ##### Interests 
-I have interests in music, film, reading, and gaming outside of work.
+I have interests in music, art, and writing. 
 
 ### Social Profiles
 
@@ -23,4 +22,4 @@ I have interests in music, film, reading, and gaming outside of work.
 
 ### Professional Profile
 
-8 years experience in Information Technology, hardware, software and troubleshooting from Helpdesk to Devops. 
+10 years experience in Information Technology, hardware, software and troubleshooting from Helpdesk to Devops. 
